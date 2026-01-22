@@ -58,7 +58,7 @@ Créez rapidement des cartes de visite professionnelles, élégantes et personna
 1. **Cloner le projet** :
 
    ```bash
-   git clone https://github.com/dagbokady/04_Carte_de_visite_Numerique.git
+   git clone https://github.com/dagbokady/04-Carte-de-visite-Numerique.git
    ```
 
 2. **Installer les dépendances** :
